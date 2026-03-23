@@ -36,8 +36,8 @@ A fast and user-friendly **multi-threaded port scanner** built using Python with
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/port-scanner.git
-cd port-scanner
+git clone https://github.com/VamshiB17/network-port-scanner.git
+cd network-port-scanner
 ```
 
 ### 2. Run the application
